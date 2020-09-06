@@ -1,2 +1,2 @@
-# lung cancer diagnosis
+# Lung Cancer Diagnosis
  
