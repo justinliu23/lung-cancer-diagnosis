@@ -1,2 +1,1 @@
-# Diagnoses a histopathological examination of lung tissue
- 
+# Lung Cancer Diagnosis 
